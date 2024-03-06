@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "mexzy": "^1.1.2"
+    "mexzy": "^1.1.2",
+    "express": "^4.17.1" // contoh dependensi tambahan
   },
   "name": "project-oss",
   "version": "1.0.0",
